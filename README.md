@@ -19,4 +19,4 @@ Bekezdés2
 2. Második
 3. Harmadik
 4. Negyedik
-5. Ötödik elem
+5. ötödik elem
